@@ -1,0 +1,16 @@
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.csprojAssemblyReference.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.AssemblyInfoInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.AssemblyInfo.cs
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.exe
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.deps.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.runtimeconfig.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.runtimeconfig.dev.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\ref\GuessNum.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\bin\Debug\net5.0\GuessNum.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\ref\GuessNum.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\GuessNum\obj\Debug\net5.0\GuessNum.genruntimeconfig.cache
